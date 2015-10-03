@@ -13,7 +13,6 @@ gem 'puma', '~> 2.14.0'
 gem 'simple_form', '~> 3.2.0'
 gem 'better_errors', '~> 2.1.1'
 gem 'devise', '~> 3.5.2'
-gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'paperclip', '~> 4.3.1'
 gem 'sdoc', '~> 0.4.0', group: :doc

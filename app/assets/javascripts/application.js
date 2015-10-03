@@ -18,5 +18,4 @@
 //= require masonry/jquery.infinitescroll.min
 //= require masonry/modernizr-transitions
 //= require jquery_ujs
-//= require turbolinks
 //= require_tree .
